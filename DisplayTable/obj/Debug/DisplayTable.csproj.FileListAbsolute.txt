@@ -1,0 +1,17 @@
+C:\Code\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe.config
+C:\Code\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe
+C:\Code\BooksExamples\DisplayTable\bin\Debug\DisplayTable.pdb
+C:\Code\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+C:\Code\BooksExamples\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+C:\Code\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+C:\Code\BooksExamples\DisplayTable\obj\Debug\DisplayTable.exe
+C:\Code\BooksExamples\DisplayTable\obj\Debug\DisplayTable.pdb
+C:\Code\BooksExamples\DisplayTable\bin\Debug\Books.mdf
+C:\Code\BooksExamples\DisplayTable\bin\Debug\Books_log.ldf
+C:\Code\BooksExamples\DisplayTable\bin\Debug\BooksExamples.dll
+C:\Code\BooksExamples\DisplayTable\bin\Debug\EntityFramework.dll
+C:\Code\BooksExamples\DisplayTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\BooksExamples\DisplayTable\bin\Debug\BooksExamples.pdb
+C:\Code\BooksExamples\DisplayTable\bin\Debug\EntityFramework.xml
+C:\Code\BooksExamples\DisplayTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\BooksExamples\DisplayTable\obj\Debug\DisplayTable.DisplayAuthorsTable.resources

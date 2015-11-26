@@ -1,0 +1,12 @@
+C:\Code\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\Code\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\Code\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\Code\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\Code\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\Code\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\Code\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\Code\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\Code\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\Code\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache
