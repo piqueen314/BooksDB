@@ -1,0 +1,17 @@
+C:\Code\BooksExamples\JoinQueries\bin\Debug\JoinQueries.exe.config
+C:\Code\BooksExamples\JoinQueries\bin\Debug\Books.mdf
+C:\Code\BooksExamples\JoinQueries\bin\Debug\Books_log.ldf
+C:\Code\BooksExamples\JoinQueries\bin\Debug\JoinQueries.exe
+C:\Code\BooksExamples\JoinQueries\bin\Debug\JoinQueries.pdb
+C:\Code\BooksExamples\JoinQueries\bin\Debug\BooksExamples.dll
+C:\Code\BooksExamples\JoinQueries\bin\Debug\EntityFramework.dll
+C:\Code\BooksExamples\JoinQueries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\BooksExamples\JoinQueries\bin\Debug\BooksExamples.pdb
+C:\Code\BooksExamples\JoinQueries\bin\Debug\EntityFramework.xml
+C:\Code\BooksExamples\JoinQueries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\BooksExamples\JoinQueries\obj\Debug\JoinQueries.csprojResolveAssemblyReference.cache
+C:\Code\BooksExamples\JoinQueries\obj\Debug\JoinQueries.JoiningTableData.resources
+C:\Code\BooksExamples\JoinQueries\obj\Debug\JoinQueries.Properties.Resources.resources
+C:\Code\BooksExamples\JoinQueries\obj\Debug\JoinQueries.csproj.GenerateResource.Cache
+C:\Code\BooksExamples\JoinQueries\obj\Debug\JoinQueries.exe
+C:\Code\BooksExamples\JoinQueries\obj\Debug\JoinQueries.pdb
