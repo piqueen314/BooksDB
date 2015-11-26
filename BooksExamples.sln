@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksExamples", "BooksExamp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayTable", "DisplayTable\DisplayTable.csproj", "{BF6AA5E0-3CFA-43D8-B23D-A1ABE4B9393C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayQueryResult", "DisplayQueryResult\DisplayQueryResult.csproj", "{6DDE7DE4-BE03-4984-97BC-196EC94C0922}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BF6AA5E0-3CFA-43D8-B23D-A1ABE4B9393C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6AA5E0-3CFA-43D8-B23D-A1ABE4B9393C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6AA5E0-3CFA-43D8-B23D-A1ABE4B9393C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDE7DE4-BE03-4984-97BC-196EC94C0922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDE7DE4-BE03-4984-97BC-196EC94C0922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDE7DE4-BE03-4984-97BC-196EC94C0922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDE7DE4-BE03-4984-97BC-196EC94C0922}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\Books.mdf
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\Books_log.ldf
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.dll
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.dll
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.pdb
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.xml
+C:\Code\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+C:\Code\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+C:\Code\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.TitleQueries.resources
+C:\Code\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+C:\Code\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+C:\Code\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb
